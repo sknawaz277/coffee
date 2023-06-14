@@ -1,0 +1,33 @@
+body{
+    background-image: url(3.jpg);
+    background-position: fixed;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    color: white;
+}
+header{
+    display: flex;
+    justify-content: flex-start;
+    background-color: white;
+    height: 100px;
+    position: fixed;
+    width: 1200px;
+}
+h2{
+    font-size: 30px;
+}
+
+nav ul li{
+    display: inline;
+    padding: 20px;
+}
+nav ul li a{
+    color: brown;
+   padding: 2px;
+    text-decoration: none;
+}
+.a{
+    
+
+}
